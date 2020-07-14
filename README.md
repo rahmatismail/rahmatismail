@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img src="https://i.pinimg.com/originals/a9/28/c5/a928c58cd5ef72cdc5fc963a029cada2.png" alt="Oops">
+
+<p align="center">
+	<a href="https://github.com/rahmatismail"><img src="https://img.shields.io/github/followers/rahmatismail.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/rahmatismail"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
 <!--
 **rahmatismail/rahmatismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
